@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.18.1](https://github.com/supabase/mcp/compare/mcp-server-supabase-v0.18.0...mcp-server-supabase-v0.18.1) (2026-11-17)
+
+
+### Bug Fixes
+
+* **mcp-server-supabase:** detect deno.jsonc as the default edge function import map ([#559](https://github.com/supabase/mcp/issues/559)) ([16bde19](https://github.com/supabase/mcp/commit/16bde199ef6a1361caf9cdeeecb760aefa5f594d))
+
 ## [0.18.0](https://github.com/supabase/mcp/compare/mcp-server-supabase-v0.17.0...mcp-server-supabase-v0.18.0) (2026-11-17)
 
 
